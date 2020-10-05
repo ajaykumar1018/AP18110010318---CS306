@@ -1,3 +1,4 @@
+//Set of all strings ending with two symbols of same type.
 #include<stdio.h>
 void
 main ()
