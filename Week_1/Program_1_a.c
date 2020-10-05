@@ -1,3 +1,4 @@
+// Set of all strings over binary alphabet containing even number of 0’s and even number of 1’s.
 #include<stdio.h>
 void
 main ()
