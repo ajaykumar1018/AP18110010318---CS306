@@ -1,0 +1,11 @@
+void main()
+{
+  int a;
+  a = 893;
+  int b;
+  /* habbyvasba
+  anandna*/
+  if (a>675){
+  	b = 987;
+  }
+}
